@@ -1,27 +1,45 @@
 # 📊 E-Commerce Sales Analytics Dashboard
 
-## Overview
+## 📌 Project Overview
 
-This project analyzes e-commerce sales data using SQL, Google BigQuery, and Looker Studio.
+This project analyzes an e-commerce dataset using **Google BigQuery** and visualizes business insights with **Looker Studio**.
 
-### Tools Used
+## 🚀 Technologies Used
 
 - SQL
 - Google BigQuery
 - Looker Studio
+- GitHub
 
-### Dashboard Features
+## 📈 Key Dashboard Metrics
 
-- Total Revenue
-- Total Orders
-- Total Customers
-- Average Order Value
-- Monthly Revenue Trend
-- Revenue by Product Category
-- Revenue by State
-- Top 10 Customers
-- Top 10 Products
+- 💰 Total Revenue
+- 📦 Total Orders
+- 👥 Total Customers
+- 💳 Average Order Value
+- 📅 Monthly Revenue Trend
+- 🛍 Revenue by Product Category
+- 🌍 Revenue by State
+- 👤 Top 10 Customers
+- 📦 Top 10 Products
 
-### Dataset
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard/dashboard.png)
+
+## 📂 Project Structure
+
+```text
+dashboard/
+sql/
+README.md
+LICENSE
+```
+
+## 📊 Dataset
 
 Brazilian Olist E-Commerce Dataset
+
+## 👨‍💻 Author
+
+Mohammed Saleem Shaik
