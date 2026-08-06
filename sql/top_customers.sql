@@ -6,3 +6,4 @@ FROM `ecommerce-sales-dashboard.ecommerce.orders` o
 JOIN `ecommerce-sales-dashboard.ecommerce.payments` p
     ON o.order_id = p.order_id
 GROUP BY o.customer_id
+ORDER BY customer_rank;
